@@ -1,5 +1,5 @@
 {
-  "name": "@johnconley/json-schema-faker",
+  "name": "@jfconley/json-schema-faker",
   "version": "0.5.0-rcv.46",
   "private": false,
   "description": "JSON-Schema + fake data generators",
